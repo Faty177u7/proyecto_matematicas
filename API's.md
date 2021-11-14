@@ -15,5 +15,11 @@ Una API es un conjunto de definiciones y protocolos que se utiliza para desarrol
 Es una interfaz de programación de aplicaciones, un grupo de reglas que facilitan la comunicación entre aplicaciones para poder intercambiar mensajes o datos. Con las APIs se puede simplificar y facilitar el proceso de desarrollo de una app pudiendo ahorrar tiempo y dinero.
 
 
+# desventajas
+
+* Condiciones cambiantes.
+* No cumplir con las exigencias
+* Las leyes son muy distintas en cada país, y esto puede impedir legalmente delegar ciertos datos o servicios para su trato por terceros.
+
 Referencia.
 https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces
